@@ -19,3 +19,9 @@ Adam
 
 # Regularization(Constraints.py)
 L2 L1
+
+# Initializers(Initializers.py)
+UniformRandom
+Xavier
+He
+
